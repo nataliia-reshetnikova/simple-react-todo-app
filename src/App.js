@@ -40,7 +40,7 @@ class App extends Component {
                 SAVE
                 </button>
               </form>
-              <ToDoList todos={this.state.todos} />
+              <ol><ToDoList todos={this.state.todos} /></ol>
         </div>
     );
   }
