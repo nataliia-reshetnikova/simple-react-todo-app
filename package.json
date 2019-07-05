@@ -1,12 +1,13 @@
 {
+  "homepage": "https://nataliereshetnikova.github.io/simple-react-todo-app/",
   "name": "todo_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
-    "homepage": "https://nataliereshetnikova.github.io/simple-react-todo-app/"
+    "react-scripts": "3.0.1"
+
   },
   "scripts": {
     "predeploy": "npm run build",
